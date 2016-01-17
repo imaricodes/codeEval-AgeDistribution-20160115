@@ -1,1 +1,6 @@
 c:\users\mre\documents\visual studio 2015\Projects\codeEval-AgeDistribution-20160115\codeEval-AgeDistribution-20160115\bin\Debug\codeEval-AgeDistribution-20160115.exe.config
+c:\users\mre\documents\visual studio 2015\Projects\codeEval-AgeDistribution-20160115\codeEval-AgeDistribution-20160115\obj\Debug\codeEval-AgeDistribution-20160115.csprojResolveAssemblyReference.cache
+c:\users\mre\documents\visual studio 2015\Projects\codeEval-AgeDistribution-20160115\codeEval-AgeDistribution-20160115\bin\Debug\codeEval-AgeDistribution-20160115.exe
+c:\users\mre\documents\visual studio 2015\Projects\codeEval-AgeDistribution-20160115\codeEval-AgeDistribution-20160115\bin\Debug\codeEval-AgeDistribution-20160115.pdb
+c:\users\mre\documents\visual studio 2015\Projects\codeEval-AgeDistribution-20160115\codeEval-AgeDistribution-20160115\obj\Debug\codeEval-AgeDistribution-20160115.exe
+c:\users\mre\documents\visual studio 2015\Projects\codeEval-AgeDistribution-20160115\codeEval-AgeDistribution-20160115\obj\Debug\codeEval-AgeDistribution-20160115.pdb
